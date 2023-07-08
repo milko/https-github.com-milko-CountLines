@@ -8,6 +8,7 @@
 import Foundation
 
 // List of file paths to count.
+// Only bioclimatic variable for now.
 let paths = [
     "/Users/milko/Local/Data/Environment/CHELSA/1981-2010/CSV/bio/ai.csv",
     "/Users/milko/Local/Data/Environment/CHELSA/1981-2010/CSV/bio/bio01.csv",
